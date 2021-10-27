@@ -1,0 +1,79 @@
+body {
+   
+  background: url(BGscenery.jpeg);
+  background-repeat: no-repeat fixed center;
+  background-attachment: fixed;     
+  background-size: 2100px 710px;
+  background-color:  rgb(151, 211, 230);
+         background-blend-mode: darken ;
+          border: solid black;
+          border-radius: 20px;
+          line-height: 25px;
+}
+.name-design{
+  color:#ff00ff;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  
+  text-align: center;
+}
+#one{
+  text-align: right;
+  margin-right: 40px;
+  font-size: 40px;
+}
+#two{
+  margin-top: 20px;
+}
+.profilepic{
+  width: 50%;
+  float: left;
+  padding: 25% 25% 25% 25%;
+  border-radius: 180%;
+}
+.half-width{
+  width: 50%;
+  float: left;
+}
+
+.half-width1{
+  width: 50%;
+  float: left;
+  
+  
+  
+  
+  
+}
+.follow-btn{
+  color: white;
+  background-color: #8845f4;
+  padding: 13px 42px 13px 42px;
+  margin-top: 30px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.container{
+  padding-left: 5%;
+  display: inline-block;
+}
+.para{
+   color: rgb(0, 0, 0);
+   font-size: 1.5em;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.experiences{
+  padding: 10px;
+  margin:30px 0px 0px 0px;
+  background-color: rgb(108, 196, 223);
+  border-radius: 20px;
+}
+.experience-item{
+  padding: 10px;
+  border-left: 4px solid rgba(90, 81, 214, 0.9);
+}
+footer{
+  font-size: 14px;
+  color: #7d7d83;
+  background-image: url(footerbg.jpg);
+}
